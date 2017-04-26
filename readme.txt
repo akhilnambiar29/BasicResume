@@ -78,27 +78,3 @@ To apply z index , you need to add relative position first.
 
 Start with general selectors and go on ahead with specific ones.
 You need to declare @font-face before you start using the font in the code
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
