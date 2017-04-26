@@ -1,9 +1,9 @@
-coolers.co for great color palletes.
-codrops for css reference.
-specicity calculator - for checking css value
-googlefonts - for new fonts
-Can I use - for cross browser checking
-Unicode table - for value of unicodes in browser.
+https://coolors.co/ for great color palletes.
+https://tympanus.net/codrops/css_reference/ for css reference.
+https://specificity.keegan.st/ - for checking css specificity value
+https://fonts.google.com/ - for new fonts
+https://caniuse.com/ - for cross browser checking
+https://unicode-table.com/en/ - for value of unicodes in browser.
 
 1 em = inherited font-size
 1 rem = inherited from the root element , mostly the html tag.
