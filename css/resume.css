@@ -75,7 +75,7 @@
  
  nav{
 	 
-	 background-color:rgb(255,255,255,0.8) ;
+	 background:rgba(255,255,255,0.8);
 	 display: inline-block;
 	 position:fixed;
 	 top:0;
@@ -90,8 +90,6 @@
 	 padding:15px 20px;
 	 text-transform: uppercase;
 	 font-weight: bold;
-	 
-	 display:inline-block;
  }
  
  .content_wrap{
