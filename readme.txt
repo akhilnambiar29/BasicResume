@@ -4,6 +4,7 @@ https://specificity.keegan.st/ - for checking css specificity value
 https://fonts.google.com/ - for new fonts
 https://caniuse.com/ - for cross browser checking
 https://unicode-table.com/en/ - for value of unicodes in browser.
+http://fontawesome.io/ - For awesome fonts
 
 1 em = inherited font-size
 1 rem = inherited from the root element , mostly the html tag.

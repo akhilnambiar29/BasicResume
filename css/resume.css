@@ -100,6 +100,10 @@
 	
  }
  
+ .contactme a{
+	 padding : 10px;
+ }
+ 
  header p{
 	 color: #eee5e9;
  }
