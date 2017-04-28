@@ -5,6 +5,9 @@ https://fonts.google.com/ - for new fonts
 https://caniuse.com/ - for cross browser checking
 https://unicode-table.com/en/ - for value of unicodes in browser.
 http://fontawesome.io/ - For awesome fonts
+https://unsplash.com/ - For royalty free images.
+http://publicdomainarchive.com/ - For royalty free images.
+http://rgb.to/ - convert color to rgb values
 
 1 em = inherited font-size
 1 rem = inherited from the root element , mostly the html tag.
@@ -26,7 +29,7 @@ border adds a border between the padding and the margin of the element.
 margin shorthand property follows border-width , style and color . Eg. 2px solid red.
 If you apply padding to inline elements , it will only push the values vertically , not horizontally. You can increase the padding between top and bottom elements by specifying them as inline-block elements.
 margin 0 auto - used to set it to center of the page.
-max-width can be used for setting maximum value of the width. 
+max-width can be used for setting maximum value of the width. Use max width for responsive content.
 If you find content overlapping the content , change display to inline-block.
 
 If you don't want a specific element to not float , use the clear attribute in css.
@@ -76,6 +79,8 @@ While using position , float is ignored.
 While using float , display is ignored. Try using backgroud color to check how everything stacks up.
 
 To apply z index , you need to add relative position first.
+
+n-th last child count from the back.
 
 Start with general selectors and go on ahead with specific ones.
 You need to declare @font-face before you start using the font in the code

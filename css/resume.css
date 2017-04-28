@@ -46,10 +46,15 @@
 	  min-height:175px;
  }
  
+  header,footer{
+	 background-color: #2274a5;
+ }
+ 
  header{
 	 /* text-align:center; */
 	 padding-top:50px;
 	 position:relative;
+	 /* background : linear-gradient(rgba(34, 116, 165,0.99) , rgba(34, 116, 165,0.6)) , url(../images/cover2.jpg) no-repeat fixed; */
  }
  
  .download{
@@ -59,9 +64,7 @@
 	 border-radius: 5px;
  }
  
- header,footer{
-	 background-color: #2274a5;
- }
+
  
  header h1 , header h2 {
 	color: #131b23; 
@@ -109,7 +112,8 @@
  }
  
  .education{
-	background-color: #e7dfc6;
+	/* background-color: #e7dfc6; */
+	background : linear-gradient(rgba(231, 223, 198,0.8) , rgb(231, 223, 198,0.5)) , url(../images/mumbai.jpg) no-repeat fixed;
  }
  
  .work{
