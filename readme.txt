@@ -78,9 +78,12 @@ absolute -> removed from the page flow. It starts flying on top of screen. It do
 While using position , float is ignored.
 While using float , display is ignored. Try using backgroud color to check how everything stacks up.
 
-To apply z index , you need to add relative position first.
+To apply z index , you need to add relative position first. the elements which come first have higher z index.
 
 n-th last child count from the back.
+
+Media queries -> use to apply css if certain conditions are met.
+It can also be included using @media in css.
 
 Start with general selectors and go on ahead with specific ones.
 You need to declare @font-face before you start using the font in the code

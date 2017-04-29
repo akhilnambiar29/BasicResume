@@ -34,18 +34,6 @@
 	 display:inline-block;
  }
  
- .col-narrow{
-	 width:30%;
-	 float:left;
-	 min-height:175px;
- }
- 
- .col-wide{
-	 width: 70%;
-	 float:left;
-	  min-height:175px;
- }
- 
   header,footer{
 	 background-color: #2274a5;
  }
@@ -84,7 +72,6 @@
 	 top:0;
 	 width:100%;
 	 text-align:center;
-	 z-index:100;
  }
  
  nav a{
@@ -144,6 +131,26 @@
  
  a:hover{
 	 text-decoration:none;
+ }
+ 
+ @media(min-width:900px){
+	  .col-narrow{
+	 width:30%;
+	 float:left;
+	 min-height:175px;
+ }
+ 
+ .col-wide{
+	 width: 70%;
+	 float:left;
+	  min-height:175px;
+ }
+ }
+ 
+ @media(max-width:899px){
+	 header div{
+		 text-align:center;
+	 }
  }
  
  
