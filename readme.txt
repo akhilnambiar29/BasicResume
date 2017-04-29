@@ -1,3 +1,5 @@
+#The resume is up and running on : https://aqeelsmith.github.io/BasicResume/
+
 https://coolors.co/ for great color palletes.
 https://tympanus.net/codrops/css_reference/ for css reference.
 https://specificity.keegan.st/ - for checking css specificity value
